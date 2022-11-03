@@ -1,6 +1,6 @@
 {
   "name": "fxgcomponent_emmar009",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React components",
   "main": "./lib/index.js",
   "files": [
@@ -54,4 +54,4 @@
     "react-bootstrap": "^2.5.0"
   },
   "homepage": "https://github.com/Ravencypher/fxgcomponents_emmar009#readme"
-}    
+}

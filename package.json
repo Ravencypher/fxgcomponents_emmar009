@@ -1,9 +1,9 @@
 {
   "name": "fxgcomponent_emmar009",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React components",
   "main": "./lib/index.js",
-  "files":[
+  "files": [
     "/lib"
   ],
   "scripts": {

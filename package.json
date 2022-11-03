@@ -12,15 +12,6 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ravencypher/fxgcomponents_emmar009.git"
-  },
-  "author": "Raven Cypher",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Ravencypher/fxgcomponents_emmar009/issues"
-  },
   "devDependencies": {
     "@babel/core": "^7.16.7",
     "@babel/preset-react": "^7.16.7",
@@ -51,7 +42,17 @@
     "@storybook/addon-docs": "^6.5.13",
     "antd": "^4.18.2",
     "bootstrap": "^5.2.2",
-    "react-bootstrap": "^2.5.0"
+    "react-bootstrap": "^2.5.0",
+    "react-bootstrap-storybook": "^1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravencypher/fxgcomponents_emmar009.git"
+  },
+  "author": "Raven Cypher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ravencypher/fxgcomponents_emmar009/issues"
   },
   "homepage": "https://github.com/Ravencypher/fxgcomponents_emmar009#readme"
 }    
